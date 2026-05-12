@@ -23,7 +23,7 @@ def square(a):
 
 def cube(a):
     """Return the square of a number"""
-    return a * a * a
+    return a ** 3
 
 if __name__ == "__main__":
     print("Calculator loaded!")
